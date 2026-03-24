@@ -1,0 +1,30 @@
+[
+    {
+        "UserID": 1,
+        "Name": "Alice",
+        "Email": "alice@example.com",
+        "JoinDate": "2026-01-01",
+        "FollowersCount": 120
+    },
+    {
+        "UserID": 2,
+        "Name": "Bob",
+        "Email": "bob@example.com",
+        "JoinDate": "2026-02-15",
+        "FollowersCount": 200
+    },
+    {
+        "UserID": 3,
+        "Name": "Charlie",
+        "Email": "charlie@example.com",
+        "JoinDate": "2026-03-01",
+        "FollowersCount": 150
+    },
+    {
+        "UserID": 4,
+        "Name": "Diana",
+        "Email": "diana@example.com",
+        "JoinDate": "2026-01-20",
+        "FollowersCount": 300
+    }
+]

@@ -1,0 +1,38 @@
+2026-03-24 13:28:06,045 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-24 13:28:06,047 - INFO - Added job "run_etl" to job store "default"
+2026-03-24 13:28:06,047 - INFO - Scheduler started
+2026-03-24 13:28:35,509 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-24 13:28:35,509 - INFO - Added job "run_etl" to job store "default"
+2026-03-24 13:28:35,509 - INFO - Scheduler started
+2026-03-24 13:32:44,378 - ERROR - ETL FAILED: Server at localhost:27017 reports wire version 7, but this version of PyMongo requires at least 8 (MongoDB 4.2).
+2026-03-24 13:34:43,984 - INFO - Created collection: Users
+2026-03-24 13:34:43,998 - INFO - Created collection: Posts
+2026-03-24 13:34:44,010 - INFO - Created collection: Likes
+2026-03-24 13:34:44,020 - INFO - Created collection: Comments
+2026-03-24 13:34:44,036 - INFO - ETL SUCCESS
+2026-03-24 13:35:15,648 - INFO - Users - data is already existed
+2026-03-24 13:35:15,650 - INFO - Users - data is already existed
+2026-03-24 13:35:15,650 - INFO - Users - data is already existed
+2026-03-24 13:35:15,651 - INFO - Users - data is already existed
+2026-03-24 13:35:15,651 - INFO - Posts - data is already existed
+2026-03-24 13:35:15,651 - INFO - Posts - data is already existed
+2026-03-24 13:35:15,652 - INFO - Posts - data is already existed
+2026-03-24 13:35:15,652 - INFO - Likes - data is already existed
+2026-03-24 13:35:15,653 - INFO - Likes - data is already existed
+2026-03-24 13:35:15,653 - INFO - Likes - data is already existed
+2026-03-24 13:35:15,653 - INFO - Comments - data is already existed
+2026-03-24 13:35:15,653 - INFO - Comments - data is already existed
+2026-03-24 13:35:15,653 - INFO - ETL SUCCESS
+2026-03-24 13:36:36,899 - ERROR - Users - data is already existed
+2026-03-24 13:36:36,900 - ERROR - Users - data is already existed
+2026-03-24 13:36:36,901 - ERROR - Users - data is already existed
+2026-03-24 13:36:36,901 - ERROR - Users - data is already existed
+2026-03-24 13:36:36,902 - ERROR - Posts - data is already existed
+2026-03-24 13:36:36,903 - ERROR - Posts - data is already existed
+2026-03-24 13:36:36,903 - ERROR - Posts - data is already existed
+2026-03-24 13:36:36,905 - ERROR - Likes - data is already existed
+2026-03-24 13:36:36,906 - ERROR - Likes - data is already existed
+2026-03-24 13:36:36,906 - ERROR - Likes - data is already existed
+2026-03-24 13:36:36,907 - ERROR - Comments - data is already existed
+2026-03-24 13:36:36,907 - ERROR - Comments - data is already existed
+2026-03-24 13:36:36,907 - INFO - ETL SUCCESS

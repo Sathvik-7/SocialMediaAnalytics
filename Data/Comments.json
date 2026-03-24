@@ -1,0 +1,16 @@
+[
+    {
+        "CommentID": 1,
+        "PostID": 1,
+        "UserID": 4,
+        "Content": "Nice!",
+        "Timestamp": "2026-03-10T09:15:00"
+    },
+    {
+        "CommentID": 2,
+        "PostID": 2,
+        "UserID": 3,
+        "Content": "Great!",
+        "Timestamp": "2026-03-11T11:00:00"
+    }
+]

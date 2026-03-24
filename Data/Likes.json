@@ -1,0 +1,20 @@
+[
+    {
+        "LikeID": 1,
+        "PostID": 1,
+        "UserID": 2,
+        "Timestamp": "2026-03-10T08:30:00"
+    },
+    {
+        "LikeID": 2,
+        "PostID": 1,
+        "UserID": 3,
+        "Timestamp": "2026-03-10T09:00:00"
+    },
+    {
+        "LikeID": 3,
+        "PostID": 2,
+        "UserID": 1,
+        "Timestamp": "2026-03-11T10:00:00"
+    }
+]

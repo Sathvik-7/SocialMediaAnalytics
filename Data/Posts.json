@@ -1,0 +1,40 @@
+[
+    {
+        "PostID": 1,
+        "UserID": 1,
+        "Content": "MongoDB is powerful!",
+        "Timestamp": "2026-03-10T08:00:00",
+        "Tags": [
+            "#MongoDB",
+            "#Database"
+        ]
+    },
+    {
+        "PostID": 2,
+        "UserID": 2,
+        "Content": "Python for analytics!",
+        "Timestamp": "2026-03-11T09:00:00",
+        "Tags": [
+            "#Python",
+            "#Data"
+        ]
+    },
+    {
+        "PostID": 3,
+        "UserID": 3,
+        "Content": "",
+        "Timestamp": "2026-03-12T10:00:00",
+        "Tags": [
+            "#Spam"
+        ]
+    },
+    {
+        "PostID": 4,
+        "UserID": 1,
+        "Content": "Learning AI!",
+        "Timestamp": "2026-03-13T11:00:00",
+        "Tags": [
+            "#AI"
+        ]
+    }
+]
