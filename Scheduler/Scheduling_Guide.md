@@ -34,7 +34,7 @@ If you do not want to keep a terminal open, you can delegate the schedule to Win
 4. **Name**: "Social Media Analytics ETL Load"
 5. **Trigger**: Select "Daily" or your preferred macro-start time. Note: Check the box to repeat every hour in the Advanced Settings later if you want exactly hourly load rates.
 6. **Action**: Select *Start a program*.
-7. **Program/script**: enter the path to your python executable, usually `C:\Users\chill\AppData\Local\Programs\Python\Python311\python.exe`
+7. **Program/script**: enter the path to your python executable, usually `python.exe`
 8. **Add arguments**: `"d:\Database Engineer\SocialMediaAnalytics\ETL\ETL.py"`
 9. **Start in**: `"d:\Database Engineer\SocialMediaAnalytics\ETL"`
 10. Click **Finish**. The ETL script will now incrementally run strictly hourly in the background on your Windows machine even if you close the terminal!
